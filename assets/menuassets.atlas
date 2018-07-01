@@ -1,0 +1,300 @@
+
+menuassets.png
+size: 1023,1018
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ant_display
+  rotate: false
+  xy: 900, 592
+  size: 123, 122
+  orig: 123, 122
+  offset: 0, 0
+  index: -1
+bar1
+  rotate: false
+  xy: 936, 402
+  size: 80, 15
+  orig: 80, 15
+  offset: 0, 0
+  index: -1
+bar2
+  rotate: false
+  xy: 936, 367
+  size: 80, 15
+  orig: 80, 15
+  offset: 0, 0
+  index: -1
+bar3
+  rotate: false
+  xy: 936, 262
+  size: 80, 15
+  orig: 80, 15
+  offset: 0, 0
+  index: -1
+bar4
+  rotate: false
+  xy: 936, 332
+  size: 80, 15
+  orig: 80, 15
+  offset: 0, 0
+  index: -1
+bar5
+  rotate: false
+  xy: 936, 297
+  size: 80, 15
+  orig: 80, 15
+  offset: 0, 0
+  index: -1
+cloud1
+  rotate: false
+  xy: 522, 24
+  size: 162, 64
+  orig: 162, 64
+  offset: 0, 0
+  index: -1
+cloud2
+  rotate: false
+  xy: 360, 24
+  size: 162, 64
+  orig: 162, 64
+  offset: 0, 0
+  index: -1
+coins
+  rotate: false
+  xy: 302, 971
+  size: 50, 27
+  orig: 50, 27
+  offset: 0, 0
+  index: -1
+episode_dog
+  rotate: false
+  xy: 870, 437
+  size: 126, 135
+  orig: 126, 135
+  offset: 0, 0
+  index: 22
+episode_dog2
+  rotate: false
+  xy: 360, 108
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+episode_dog2_active
+  rotate: false
+  xy: 510, 108
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+episode_dog3
+  rotate: false
+  xy: 540, 293
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+episode_dog3_active
+  rotate: false
+  xy: 720, 478
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+hedgehog_display
+  rotate: false
+  xy: 813, 153
+  size: 123, 122
+  orig: 123, 122
+  offset: 0, 0
+  index: -1
+kack_display
+  rotate: false
+  xy: 813, 295
+  size: 123, 122
+  orig: 123, 122
+  offset: 0, 0
+  index: -1
+lock
+  rotate: false
+  xy: 660, 124
+  size: 100, 35
+  orig: 100, 35
+  offset: 0, 0
+  index: -1
+mouse_display
+  rotate: false
+  xy: 900, 734
+  size: 123, 122
+  orig: 123, 122
+  offset: 0, 0
+  index: -1
+penguin_display
+  rotate: false
+  xy: 690, 321
+  size: 123, 122
+  orig: 123, 122
+  offset: 0, 0
+  index: -1
+player_ant
+  rotate: false
+  xy: 180, 575
+  size: 180, 165
+  orig: 180, 165
+  offset: 0, 0
+  index: -1
+player_ant_active
+  rotate: false
+  xy: 360, 463
+  size: 180, 165
+  orig: 180, 165
+  offset: 0, 0
+  index: -1
+player_hedgehog
+  rotate: false
+  xy: 540, 833
+  size: 180, 165
+  orig: 180, 165
+  offset: 0, 0
+  index: -1
+player_hedgehog_active
+  rotate: false
+  xy: 720, 833
+  size: 180, 165
+  orig: 180, 165
+  offset: 0, 0
+  index: -1
+player_kack
+  rotate: false
+  xy: 0, 20
+  size: 180, 165
+  orig: 180, 165
+  offset: 0, 0
+  index: -1
+player_kack_active
+  rotate: false
+  xy: 180, 205
+  size: 180, 165
+  orig: 180, 165
+  offset: 0, 0
+  index: -1
+player_mouse
+  rotate: false
+  xy: 180, 760
+  size: 180, 165
+  orig: 180, 165
+  offset: 0, 0
+  index: -1
+player_mouse_active
+  rotate: false
+  xy: 540, 648
+  size: 180, 165
+  orig: 180, 165
+  offset: 0, 0
+  index: -1
+player_penguin
+  rotate: false
+  xy: 0, 760
+  size: 180, 165
+  orig: 180, 165
+  offset: 0, 0
+  index: -1
+player_penguin_active
+  rotate: false
+  xy: 0, 575
+  size: 180, 165
+  orig: 180, 165
+  offset: 0, 0
+  index: -1
+player_placeholder
+  rotate: false
+  xy: 360, 833
+  size: 180, 165
+  orig: 180, 165
+  offset: 0, 0
+  index: -1
+player_rat
+  rotate: false
+  xy: 540, 463
+  size: 180, 165
+  orig: 180, 165
+  offset: 0, 0
+  index: -1
+player_rat100
+  rotate: false
+  xy: 360, 278
+  size: 180, 165
+  orig: 180, 165
+  offset: 0, 0
+  index: -1
+player_rat100_active
+  rotate: false
+  xy: 360, 648
+  size: 180, 165
+  orig: 180, 165
+  offset: 0, 0
+  index: -1
+player_rat_active
+  rotate: false
+  xy: 180, 20
+  size: 180, 165
+  orig: 180, 165
+  offset: 0, 0
+  index: -1
+player_snail
+  rotate: false
+  xy: 0, 205
+  size: 180, 165
+  orig: 180, 165
+  offset: 0, 0
+  index: -1
+player_snail_active
+  rotate: false
+  xy: 0, 390
+  size: 180, 165
+  orig: 180, 165
+  offset: 0, 0
+  index: -1
+player_turtle
+  rotate: false
+  xy: 720, 648
+  size: 180, 165
+  orig: 180, 165
+  offset: 0, 0
+  index: -1
+player_turtle_active
+  rotate: false
+  xy: 180, 390
+  size: 180, 165
+  orig: 180, 165
+  offset: 0, 0
+  index: -1
+pogo3
+  rotate: false
+  xy: 0, 945
+  size: 302, 53
+  orig: 302, 53
+  offset: 0, 0
+  index: -1
+rat_display
+  rotate: false
+  xy: 690, 179
+  size: 123, 122
+  orig: 123, 122
+  offset: 0, 0
+  index: -1
+reward
+  rotate: false
+  xy: 684, 40
+  size: 91, 64
+  orig: 91, 64
+  offset: 0, 0
+  index: -1
+turtle_display
+  rotate: false
+  xy: 900, 876
+  size: 123, 122
+  orig: 123, 122
+  offset: 0, 0
+  index: -1
